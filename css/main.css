@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin: 0 auto;
+	padding: 0;
+	text-indent: 0;
+	list-style-type: none;
+}
+
+body {
+	width: 1275px;
+	background-color: #efefef;
+}
+
+h1{
+	margin: 12px 0;
+	font-size: 36px;
+	text-align: center;
+	color:#999;
+}
+h2{
+	float: left;
+	width: 100%;
+	height: 38px;
+	line-height: 38px;
+	text-align: center;
+	margin: 20px 0 5px 0;
+	font-size: 18px;
+	background-color:#AFA0C7;
+	color: #fff;
+	border-radius: 6px;
+}
+h3{
+	float: left;
+	font-size: 16px;
+	color:#A70507;
+	text-align: center;
+	width: 100%;
+}
+b{
+	color: #f00;
+}
+ul{
+	margin: 0;
+}
+li.al {
+	float: left;
+	width: 1265px;;
+	height: 38px;
+	line-height: 38px;
+	border: dashed 1px #b09fc6;
+	margin: 2px;
+	text-align:center;
+	border-radius: 6px;
+	text-align: center;
+	background-color:#E2E0ED;
+}
+li {
+	float: left;
+	width: 312px;
+	height: 38px;
+	line-height: 38px;
+	float: left;
+	border: dashed 1px #b09fc6;
+	margin: 2px;
+	text-align:center;
+	border-radius: 6px;
+	text-indent: 8px;
+	background-color:#E2E0ED;
+}
+
+li:hover{
+	background-color: #efefef;
+}
+a,a:visited{
+	text-decoration-line: none;
+	color: #333333;
+	font-weight: bold;
+}
+a:hover{
+	color: #f00;
+}
+
+.center {
+	width: 100%;
+	margin: 0 auto;
+}
+.clr{
+	clear: both;	
+}
+
+.site_discription{
+	float: left;
+	width: 100%;
+	line-height: 28px;
+	margin: 5px auto;
+	text-indent: 2;	
+}
+.vipimg{
+	float: right;
+	width: 20%;
+}
+.vipmq{
+	float: left;
+	width: 80%;
+	height: 64px;
+	line-height: 64px;
+}
+marquee{
+	height: 64px;
+	line-height: 64px;
+	width: 98%;
+	color:#C26BD3;
+	font-weight: bold;
+	font-size: 18px
+}
+.software_list{
+	float: left;
+	text-align: left;
+}
+.txtCenter{
+	margin-top: 49px;
+	text-align: center;
+}
